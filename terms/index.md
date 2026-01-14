@@ -38,4 +38,4 @@ To the maximum extent permitted by law, the Company is not liable for indirect, 
 We may update these Terms and will update the date above. Continued use means you accept the updated Terms.
 
 ## Governing law
-These Terms are governed by the laws of **[Your jurisdiction]**.
+These Terms are governed by the laws of each applicable jurisdiction.
