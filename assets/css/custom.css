@@ -68,4 +68,8 @@ blockquote{
   .nav a{ margin-left: 0; margin-right: 14px; }
 }
 
+.skip{ position:absolute; left:-9999px; }
+.skip:focus{ left:18px; top:18px; background:#fff; padding:8px 10px; border:1px solid var(--border); }
+
+
 
