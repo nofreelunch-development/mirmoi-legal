@@ -7,7 +7,8 @@ permalink: /terms/
 **Effective Date:** 2026-01-14  
 **Last Updated:** 2026-01-14
 
-These Terms govern your use of **Mirmoi** (the “App”), provided by **nofreelunchdevs.com** (“Developer”).  
+These Terms govern your use of **Mirmoi** (the “App”), 
+provided by **nofreelunchdevs.com** (“Developer”).  
 **Contact:** support@mirmoi.com
 
 ## The app
