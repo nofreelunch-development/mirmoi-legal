@@ -25,10 +25,6 @@ a:hover{ text-decoration: underline; }
   max-width: 860px;
 }
 
-main.page-content{
-  padding: 28px 18px;
-}
-
 h1, h2, h3{
   letter-spacing: -0.02em;
 }
@@ -48,7 +44,7 @@ blockquote{
 
 .wrap{ max-width: 900px; margin: 0 auto; padding: 0 18px; }
 .topbar{ border-top:4px solid var(--brand); border-bottom:1px solid var(--border); background:#fff; }
-.topbar .wrap{ display:flex; align-items:center; justify-content:space-between; padding:14px 18px; }
+.topbar .wrap{ display:flex; align-items:center; justify-content:space-between; padding-top:14px; padding-bottom:14px; }
 .brand{ display:flex; gap:10px; align-items:center; text-decoration:none; color:inherit; }
 .logo{ width:28px; height:28px; }
 .name{ font-weight:700; letter-spacing:-0.02em; }
