@@ -42,6 +42,14 @@ blockquote{
   color: var(--muted);
 }
 
+.content{
+  padding: 26px 18px;
+}
+.content h1{ font-size: 28px; margin-top: 10px; }
+.content h2{ margin-top: 28px; }
+.content p, .content li{ max-width: 75ch; }
+
+
 .wrap{ max-width: 900px; margin: 0 auto; padding: 0 18px; }
 .topbar{ border-top:4px solid var(--brand); border-bottom:1px solid var(--border); background:#fff; }
 .topbar .wrap{ display:flex; align-items:center; justify-content:space-between; padding-top:14px; padding-bottom:14px; }
@@ -54,4 +62,10 @@ blockquote{
 .footer{ padding: 22px 18px 40px; color:var(--muted); font-size:14px; }
 .footer .dot{ margin: 0 8px; }
 .nav a.active{ color: var(--brand); }
+
+@media (max-width: 520px){
+  .topbar .wrap{ flex-direction: column; align-items: flex-start; gap: 10px; }
+  .nav a{ margin-left: 0; margin-right: 14px; }
+}
+
 
