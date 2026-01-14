@@ -18,9 +18,10 @@
           <span class="name">Mirmoi</span>
         </a>
         <nav class="nav">
-          <a href="/privacy/">Privacy</a>
-          <a href="/terms/">Terms</a>
+          <a href="/privacy/" class="{% if page.url == '/privacy/' %}active{% endif %}">Privacy</a>
+          <a href="/terms/" class="{% if page.url == '/terms/' %}active{% endif %}">Terms</a>
         </nav>
+
       </div>
     </header>
 
