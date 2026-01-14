@@ -57,3 +57,5 @@ blockquote{
 .content{ padding: 26px 18px; }
 .footer{ padding: 22px 18px 40px; color:var(--muted); font-size:14px; }
 .footer .dot{ margin: 0 8px; }
+.nav a.active{ color: var(--brand); }
+
