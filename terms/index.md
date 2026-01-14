@@ -3,7 +3,7 @@ title: Terms of Service
 permalink: /terms/
 ---
 
-# Terms of Service — Mirmoi
+# Terms of Service Mirmoi
 **Effective Date:** 2026-01-14  
 **Last Updated:** 2026-01-14
 
