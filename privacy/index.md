@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy — Mirmoi
 **Effective Date:** 2026-01-14  
 **Last Updated:** 2026-01-14
