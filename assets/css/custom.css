@@ -45,3 +45,15 @@ blockquote{
   padding: 12px 14px;
   color: var(--muted);
 }
+
+.wrap{ max-width: 900px; margin: 0 auto; padding: 0 18px; }
+.topbar{ border-top:4px solid var(--brand); border-bottom:1px solid var(--border); background:#fff; }
+.topbar .wrap{ display:flex; align-items:center; justify-content:space-between; padding:14px 18px; }
+.brand{ display:flex; gap:10px; align-items:center; text-decoration:none; color:inherit; }
+.logo{ width:28px; height:28px; }
+.name{ font-weight:700; letter-spacing:-0.02em; }
+.nav a{ margin-left:14px; text-decoration:none; color:var(--muted); font-weight:600; }
+.nav a:hover{ color:var(--brand); }
+.content{ padding: 26px 18px; }
+.footer{ padding: 22px 18px 40px; color:var(--muted); font-size:14px; }
+.footer .dot{ margin: 0 8px; }
