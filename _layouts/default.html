@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }} · {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="wrap">
+        <a class="brand" href="https://legal.mirmoi.com/">
+          <img src="{{ "/assets/img/mirmoi-mark.png" | relative_url }}" alt="Mirmoi" class="logo">
+          <span class="name">Mirmoi</span>
+        </a>
+        <nav class="nav">
+          <a href="/privacy/">Privacy</a>
+          <a href="/terms/">Terms</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap content">
+      {{ content }}
+    </main>
+
+    <footer class="wrap footer">
+      <span>© {{ site.time | date: "%Y" }} nofreelunchdevs.com</span>
+      <span class="dot">·</span>
+      <a href="mailto:support@mirmoi.com">support@mirmoi.com</a>
+    </footer>
+  </body>
+</html>
